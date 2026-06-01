@@ -1,21 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff0ff,100:001eff&height=180&section=header&text=XYROO%20SX7&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=35" />
+# ⚡ XYROO SX7  
+### 🧠 SYSTEM ARCHITECT • BACKEND ENGINEER • AUTOMATION INFRASTRUCTURE  
 
-# ⚡ CYBER SYSTEM ONLINE  
-### 🧠 NEURAL BACKEND ARCHITECT • BOT ENGINE MASTER • API SYSTEM DESIGNER  
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=22&center=true&vCenter=true&width=750&lines=INITIALIZING+CYBER+CORE...;BACKEND+SYSTEM+ONLINE;BOT+NETWORK+ACTIVE;API+INFRASTRUCTURE+STABLE;NEURAL+ENGINE+SYNCED;WELCOME+TO+THE+SYSTEM" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=22&center=true&vCenter=true&width=750&lines=Backend+System+Architecture;Scalable+API+Engineering;Bot+Automation+Infrastructure;Real-Time+Distributed+Systems" />
 
 ---
 
-## 🟢 SYSTEM STATUS DASHBOARD
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS DASHBOARD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xyrooapho&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=00F5FF" />
+
+<img src="https://streak-stats.demolab.com?user=xyrooapho&theme=tokyonight&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrooapho&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF" />
+
+</div>
+
+---
+
+# 🧠 SYSTEM PROFILE OVERVIEW
 
 ```diff
-🟢 CORE NODE       : ONLINE
-🟢 BACKEND ENGINE  : STABLE
-🟢 BOT NETWORK     : ACTIVE
-🟢 API SYSTEM      : RUNNING
-🟢 DATABASE        : CONNECTED
-🟡 LOAD SYSTEM     : OPTIMIZED
-🟢 SECURITY LAYER  : MAXIMUM
++ ROLE        : Backend Engineer / System Architect
++ FOCUS       : API • Bot Systems • Automation
++ STACK       : Node.js • Express • WebSocket • MongoDB • Redis
++ STYLE       : Scalable System Design
++ MODE        : PRODUCTION ENGINE
++ LOCATION    : Indonesia
