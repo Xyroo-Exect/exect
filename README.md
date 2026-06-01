@@ -1,8 +1,17 @@
 <div align="center">
 
-# 🚀 <span style="color:#00C2FF;">DATABASE INFORMATION</span>
+# ⚡ Xyroo Sx7
+### 🚀 Bot Developer • Backend Engineer • API Builder
 
-> ⚡ Lightweight • Fast • Secure • Bot Ready System
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Bot+Developer;Backend+Engineer;API+Creator;Cyber+System+Builder" />
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=xyrooapho&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xyrooapho&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrooapho&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -10,32 +19,11 @@
 
 ---
 
-## 🟦 🌐 TELEGRAM CONTACT
+# 🧠 ABOUT ME
 
-<p align="center">
-  <a href="https://t.me/xyrooapho">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="120"/>
-  </a>
-</p>
-
-> 👆 Klik logo Telegram di atas untuk langsung ke akun
-
----
-
-## 🧠 OVERVIEW
-
-### <span style="color:#00C2FF;">SYSTEM DATABASE</span>
-
-Database ini dibuat untuk sistem bot / backend dengan fokus:
-
-- ⚡ Kecepatan tinggi
-- 💾 Struktur ringan
-- 🔐 Role security (admin/user)
-- 📡 Logging otomatis
-- 🧩 Mudah dikembangkan
-
----
-
-## 📂 STRUCTURE
-
-
+```diff
++ Name        : Xyroo Sx7
++ Role        : Developer / Bot Engineer
++ Focus       : Backend, Bot System, API
++ Location    : Indonesia
++ Status      : Active Developer
