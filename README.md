@@ -37,3 +37,5 @@ Database ini dibuat untuk sistem bot / backend dengan fokus:
 ---
 
 ## 📂 STRUCTURE
+
+
