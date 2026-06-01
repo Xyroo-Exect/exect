@@ -1,36 +1,20 @@
 <div align="center">
 
-# ⚡ XYROO SX7  
-### 🚀 Senior Backend Engineer • Bot Architect • API System Developer  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff0ff,100:001eff&height=180&section=header&text=XYROO%20SX7&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=650&lines=Building+Scalable+Bot+Systems;Backend+Engineering+%7C+API+Architecture;Automation+%7C+Cyber+Systems;Clean+Code+%7C+High+Performance+Design" />
+# ⚡ CYBER GOD SYSTEM ONLINE  
+### 🧠 NEURAL BACKEND ARCHITECT • BOT ENGINE MASTER • API SYSTEM DESIGNER  
 
----
-
-## 🧬 SYSTEM STATUS
-🟢 Active Developer  
-🟡 Building Automation Systems  
-🔵 Focused on Backend & Bot Architecture  
+<img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=22&center=true&vCenter=true&width=750&lines=INITIALIZING+ULTRA+CYBER+SYSTEM...;NEURAL+NETWORK+SYNCED;BACKEND+ARCHITECTURE+ONLINE;BOT+SYSTEMS+FULLY+ACTIVE;API+INFRASTRUCTURE+STABLE;WELCOME+TO+THE+GOD+MODE" />
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=xyrooapho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://streak-stats.demolab.com?user=xyrooapho&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrooapho&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
-## 🧠 ABOUT ME
+## 🖥️ SYSTEM CONTROL PANEL
 
 ```diff
-+ Identity   : Xyroo Sx7
-+ Role       : Backend Engineer / Bot Developer
-+ Focus      : Scalable API, Automation, System Design
-+ Language   : JavaScript / Node.js
-+ Location   : Indonesia
-+ Mindset    : Clean Architecture • Performance First
-+ Status     : Building Production-Ready Systems
+🟢 CORE NODE       : ONLINE
+🟢 BACKEND ENGINE  : STABLE
+🟢 BOT NETWORK     : ACTIVE
+🟢 API SYSTEM      : RUNNING
+🟢 SECURITY LAYER  : MAXIMUM
+🟡 LOAD BALANCER   : OPTIMIZED
